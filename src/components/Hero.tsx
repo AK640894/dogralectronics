@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
-    <div className="relative bg-gradient-to-r from-black-900 to-black-700 text-white">
+    <div className="relative bg-gradient-to-r from-blue-900 to-blue-700 text-white">
       <div 
         className="absolute inset-0 z-0 opacity-20 bg-cover bg-center"
         style={{ 
