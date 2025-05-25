@@ -10,10 +10,10 @@ const Footer = () => {
             <h3 className="text-lg font-bold mb-4">Dogra Electronics</h3>
             <p className="text-gray-300 mb-4">Your One-Stop Shop for All Things Electronic</p>
             <div className="flex items-center space-x-4">
-              <a href="tel:+911234567890" className="text-white hover:text-blue-400 transition-colors">
+              <a href="tel:+919419109355" className="text-white hover:text-blue-400 transition-colors">
                 <Phone className="h-5 w-5" />
               </a>
-              <a href="mailto:contact@dograelectronics.com" className="text-white hover:text-blue-400 transition-colors">
+              <a href="mailto:dograelectronics.sales@gmail.com" className="text-white hover:text-blue-400 transition-colors">
                 <Mail className="h-5 w-5" />
               </a>
               <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
