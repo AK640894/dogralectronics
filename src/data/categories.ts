@@ -35,6 +35,6 @@ export const categories: Category[] = [
     id: 6,
     name: 'SIM Cards',
     description: 'SIM cards from all major network providers with attractive plans and offers.',
-    image: 'https://images.pexels.com/photos/28920287/pexels-photo-28920287/free-photo-of-flatlay-of-smartphone-with-sim-and-memory-cards.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+    image: 'https://images.pexels.com/photos/28920287/pexels-photo-28920287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
   }
 ];
