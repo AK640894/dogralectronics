@@ -29,7 +29,8 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-lg">Owner</h3>
-                  <p className="text-gray-700">Sh. BodhRaj Dogra</p>
+                  <p className="text-gray-700">Sh.Rakesh Dogra</p>
+                  <p className="text-gray-700">Sh.Deepak Dogra</p>
                 </div>
               </div>
               
