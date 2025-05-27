@@ -116,18 +116,6 @@ const ContactPage = () => {
               </div>
             </div>
           </div>
-          
-          <div className="rounded-lg overflow-hidden h-[400px] md:h-[500px] shadow-md">
-            <iframe
-              src="https://maps.app.goo.gl/tyXFgRMrtekuk9x98" 
-              width="100%" 
-              height="100%" 
-              style={{ border: 0 }}
-              allowFullScreen 
-              loading="lazy"
-              title="Dogra Electronics Location"
-            ></iframe>
-          </div>
         </div>
       </div>
     </div>
