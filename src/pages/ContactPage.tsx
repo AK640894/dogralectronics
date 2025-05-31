@@ -71,7 +71,7 @@ const ContactPage = () => {
                 <div>
                   <h3 className="font-semibold text-lg">Email</h3>
                   <a 
-                    href="mailto:contact@dograelectronics.com" 
+                    href="mailto:dograelectronics.sales@gmail.com" 
                     className="text-blue-600 hover:text-blue-800 transition-colors"
                   >
                     dograelectronics.sales@gmail.com
