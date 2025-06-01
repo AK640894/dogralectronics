@@ -49,5 +49,29 @@ export const categories: Category[] = [
     image:
       'https://images.pexels.com/photos/28920287/pexels-photo-28920287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
   },
+  {
+    id: 7,
+    name: 'Air conditioners',
+    description:
+      'Stay cool this summer with top-brand air conditioners at unbeatable prices — performance and comfort guaranteed!',
+    image:
+      'https://os-wordpress-media.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/11/24212247/Air-Conditioner-Buying-Guide.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+  },
+  {
+    id: 8,
+    name: 'Air Coolers',
+    description:
+      'Beat the heat with high-performance air coolers from top brands — energy-efficient, affordable for every home!',
+    image:
+      'https://havells.com/media/mageplaza/blog/post/h/o/how-air-coolers-are-beneficial.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+  },
+  {
+    id: 9,
+    name: 'Fans',
+    description:
+      'Discover top-brand fans that combine powerful cooling with stylish designs — perfect comfort for every room!',
+    image:
+      'https://djd1xqjx2kdnv.cloudfront.net/photos/37/94/500897_11703_XL.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+  },
 ];
 
